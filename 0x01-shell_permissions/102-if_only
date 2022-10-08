@@ -1,2 +1,2 @@
 #!/bin/bash
-if betty chown guillaume hello
+if whoami = guillaume then chown hello
