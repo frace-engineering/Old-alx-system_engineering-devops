@@ -1,2 +1,2 @@
 #!/bin/bash
-my_dir < mkdir > chimod 751
+mkdir dir | chmod 751
